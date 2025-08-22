@@ -8,7 +8,10 @@ print ("necesito plata")
 
 print("peguelo")
 
+for i in range (0, 11):
+    print (i)
 
+print("Esta es mi rama scr")
 
 print("hola bro")
 
